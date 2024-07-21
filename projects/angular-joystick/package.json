@@ -1,0 +1,24 @@
+{
+  "name": "angular-joystick",
+  "version": "1.0.1",
+  "author": "Suneet Bansal",
+  "peerDependencies": {
+    "@angular/common": "^18.1.0",
+    "@angular/core": "^18.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SuneetBansal/angular-joystick-repo.git"
+  },
+  "keywords": [
+    "dummy",
+    "mock",
+    "rest server",
+    "restful dummy server",
+    "fake"
+  ],
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
